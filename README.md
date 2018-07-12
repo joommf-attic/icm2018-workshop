@@ -44,7 +44,7 @@ Before the workshop, we recommend to the participants to upgrade `joommf` by run
 For those participants who were not able to install JOOMMF on their laptops, we provide the option of running JOOMMF in the cloud. Please choose one of the following two:
 
 1. Binder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/joommf/icm2018-workshop/master?filepath=index.ipynb)
-2. tryJOOMMF: to be added. 
+2. tryJOOMMF: coming soon
 
 However, because we are not sure about the quality of WiFi during the workshop, we cannot guarantee the quality of the service.
 
