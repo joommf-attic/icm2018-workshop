@@ -1,5 +1,5 @@
-# JOOMMF workshop
-ICM2018, San Francisco, USA, 15 July 2018
+# Micromagnetics with JOOMMF
+International Conference on Magnetism 2018, San Francisco, CA, USA, 15 July 2018
 
 ## Before the workshop
 
@@ -9,9 +9,9 @@ Although we expect to have relatively good WiFi during the workshop, we recommen
 
 We strongly recommend installing `joommf` by using `conda` package manager. Detailed installation video instructions for all three major operating systems are available on YouTube:
 
-- Windows: https://www.youtube.com/watch?v=Qm9QD7EfJ1Y
-- MacOS: https://www.youtube.com/watch?v=WgoJ2g4j7Mo
-- Linux: https://www.youtube.com/watch?v=Yzg58boZCgI
+- Windows ([video](https://www.youtube.com/watch?v=Qm9QD7EfJ1Y))
+- MacOS: ([video](https://www.youtube.com/watch?v=WgoJ2g4j7Mo))
+- Linux: ([video](https://www.youtube.com/watch?v=Yzg58boZCgI))
 
 If you decide to follow the video tutorials, you can skip the following two steps.
 
