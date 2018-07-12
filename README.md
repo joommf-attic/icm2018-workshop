@@ -4,7 +4,7 @@ International Conference on Magnetism 2018, San Francisco, CA, USA, 15 July 2018
 ## Agenda
 
 13:30 - 15:00 Introduction to micromagnetics  
-15:00 - 15:30 Coffee break
+15:00 - 15:30 Coffee break  
 15:30 - 17:00 JOOMMF tutorials and exercises
 
 ## Before the workshop
