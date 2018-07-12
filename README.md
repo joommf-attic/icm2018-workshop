@@ -32,3 +32,7 @@ in your terminal/command prompt. For further information on the `conda` package,
 Before the workshop, we recommend to the participants to upgrade `joommf` by running
 
     conda upgrade joommf
+    
+## JOOMMF in the cloud
+
+For those participants who were not able to install JOOMMF on their laptops, we will provide the option of running JOOMMF in the cloud. However, because we are not sure about the quality of WiFi during the workshop, we cannot guarantee the quality of the service.
