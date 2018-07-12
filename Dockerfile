@@ -26,5 +26,5 @@ RUN adduser --disabled-password \
 COPY . ${HOME}
 USER root
 RUN chown -R ${NB_UID} ${HOME}
-RUN chown -R ${NB_UID} /usr/local/oommfc
+RUN chown -R ${NB_UID} /usr/local/icm2018-workshop
 USER ${NB_USER}
