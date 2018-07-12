@@ -45,4 +45,4 @@ For those participants who were not able to install JOOMMF on their laptops, we 
 
 ## Survey
 
-We ask all participants to complete our online survey at: https://docs.google.com/forms/d/1P2sJYyEUKV7fI1iPUugmyYmu1fCanrwkBZSlomY8Hxg/edit
+We kindly ask all participants to complete our online [survey](https://docs.google.com/forms/d/1P2sJYyEUKV7fI1iPUugmyYmu1fCanrwkBZSlomY8Hxg/edit).
