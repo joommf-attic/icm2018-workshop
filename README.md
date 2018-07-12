@@ -1,59 +1,34 @@
-This URL can be found via http://bit.ly/2nSqK7f
+# JOOMMF workshop
+ICM2018, San Francisco, USA, 15 July 2018
 
-# Jupyter OOMMF tutorial 
-Magnetism conference, 5 April 2017, York
+## Before the workshop
 
-## Help
+Although we expect to have relatively good WiFi during the workshop, we recommend to all participants to attempt to install JOOMMF on their laptops if they want to follow live demos and do the exercises during the workshop.
 
-- ask one of our demonstrators (Marijan Beg, Ryan Pepper, Leoni Breth, Hans Fangohr)
+### Installation
 
-- post your query on our [chat channel](https://gitter.im/joommf/support)
+We strongly recommend installing `joommf` by using `conda` package manager. Detailed installation video instructions for all three major operating systems are available on YouTube:
 
-- Or consider other [communication channels](http://joommf.github.io/contact.html)
+- Windows: https://www.youtube.com/watch?v=Qm9QD7EfJ1Y
+- MacOS: https://www.youtube.com/watch?v=WgoJ2g4j7Mo
+- Linux: https://www.youtube.com/watch?v=Yzg58boZCgI
 
-## Obtaining workshop materials
+If you decide to follow the video tutorials, you can skip the following two steps.
 
-There are two different ways to get all required materials for the workshop:
+#### 1. Getting Anaconda
 
-1. You can download the contents of the repository from this [link](https://github.com/joommf/tutorial/archive/master.zip) as a zip file.
+[Download Anaconda](https://www.anaconda.com/download) for your operating system and follow instructions on the download page. Further information about installing Anaconda can be found [here](https://conda.io/docs/user-guide/install/download.html).
 
-   When you obtain the repository contents, please navigate to `tutorial-master/workshops/2017-04-05-IOPMagnetism2017` directory.
+#### 2. Installing JOOMMF
 
+`joommf` is installed using `conda` by running
 
-2. If wish to use `git`, you can clone the repository by running:
-   ```
-   git clone https://github.com/joommf/tutorial.git
-   ```
+    conda install --channel conda-forge joommf
 
-## Updates and news - will be updated during the workshop if required
-Nothing to report.
-Last update: 4 April 2017 11:04
+in your terminal/command prompt. For further information on the `conda` package, dependency, and environment management, please have a look at its [documentation](https://conda.io/docs/). 
 
+## Updating
 
-## Software installation, Tutorial files etc
+Before the workshop, we recommend to the participants to upgrade `joommf` by running
 
-See the `tutorial-master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb` eiher
-[online](https://github.com/joommf/tutorial/blob/master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb) or
-in your downloaded teaching materials.
-
-## Exercises
-
-Here is the proposed set of exercises to follow.
-
-- Tutorial 0: First notebook
-  - [ ] Exercise 
-- Tutorial 1: Setting geometry and initial magnetisation
-  - [ ] Exercise 1a
-  - [ ] Exercise 1b
-  - [ ] Exercise 2
-- Tutorial 2: Setting hamiltonians
-  - [ ] Exercise 1
-  - [ ] Exercise 2
-- Tutorial 3: Dynamics (Macrospin)
-  - [ ] Exercise 1
-  - [ ] Exercise 2
-  - [ ] Exercise 3
-- Tutorial 4: Domain wall motion (current driven, with DMI)
-  - [ ] Exercise
-- Simulating conversion of a domain wall pair into a skyrmion
-  - [ ] `exercise_dw_pair_conversion.ipynb`
+    conda upgrade joommf
