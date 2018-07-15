@@ -50,7 +50,7 @@ However, because we are not sure about the quality of WiFi during the workshop, 
 
 ## Workshop materials
 
-All the materials we are going to use during the workshop in the form of Jupyter notebooks are hosted in this repository. You can download this repository from this [link](f)
+All the materials we are going to use during the workshop in the form of Jupyter notebooks are hosted in this repository. You can download this repository from this [link](https://github.com/joommf/icm2018-workshop/archive/master.zip). After you unzip the file on your computer, in your terminal navigate to the `notebooks` directory and run `jupyter notebook`.
 
 ## Survey
 
